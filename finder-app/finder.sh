@@ -1,6 +1,7 @@
 #!/bin/sh
 
 usage="$0 <filesdir> <searchstr>"
+
 filesdir=$1
 searchstr=$2
 

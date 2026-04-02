@@ -1,6 +1,7 @@
 #!/bin/sh
 
 usage="$0 <writefile> <writestr>"
+
 writefile=$1
 writestr=$2
 
